@@ -1,9 +1,9 @@
 {
   "name": "convai-twilio-js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "outbound.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node outbound.js"
   },
   "author": "ElevenLabs",
   "license": "ISC",
